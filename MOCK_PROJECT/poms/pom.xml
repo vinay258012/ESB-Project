@@ -8,6 +8,9 @@
   <packaging>pom</packaging>
   <name>MOCK_PROJECT Codes Master</name>
   <url>http://www.talend.org/</url>
+  <modules>
+    <module>code/routines</module>
+  </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
     <talend.project.name>MOCK_PROJECT</talend.project.name>
