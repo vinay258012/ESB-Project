@@ -10,6 +10,8 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/Final_Mock_project/webservice_dynamically_calling_job_0.1</module>
+    <module>jobs/process/Final_Mock_project/dynamically_validation_job_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
